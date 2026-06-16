@@ -6,7 +6,7 @@ Companion code for the Master Thesis of Huong Thao Bui (639485).
 
 ## Contents
 - `Code_clean.ipynb` — Full analysis pipeline, runs top-to-bottom.
-- `Full Data.xlsx` — The dataset is not available for viewing due to confidentiality agreement with the data provider. Please contact the author of this repo through email 639485hb@student.eur.nl if access to the dataset is needed.
+- `Full Data.xlsx` — The dataset is not available for viewing due to confidentiality agreement with the data provider. Please contact the author of this repo through email 639485hb@student.eur.nl or MS teams if access to the dataset is needed.
 
 ## Note
 Due to the `Full Data.xlsx` not available on the repo, the codebook had been pre-run and all results are shown. To avoid running into errors when access to the data is not granted, please **don't run the code again**.
